@@ -1,0 +1,41 @@
+.container {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+.mrcn {
+    padding: 10px;
+    text-align: justify;
+    align-items: center;
+    flex-direction: row-reverse; /* Set flex direction to reverse the order */
+}
+.mrcn img  {
+    float: right;
+    width: 200px;
+    height: auto;
+    margin: 20px; /* Adjust margin to create space between image and text */
+}
+.mrcn div {
+    flex: 1;
+}
+
+.kuk {
+    background-color: #f4f4f4;
+    padding: 10px;
+    text-align: justify;
+    align-items: center;
+    flex-direction: row-reverse;
+
+}
+
+.kuk img {
+    float: right;
+    width: 400px;
+    height: auto;
+    margin: 20px;
+}
+
+.kuk div {
+    flex: 1;
+}

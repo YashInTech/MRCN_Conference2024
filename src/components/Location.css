@@ -1,0 +1,37 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.info {
+    text-align: left;
+    margin-right: 20px;
+    flex: 1; /* Allow the info section to grow to fill available space */
+}
+
+.heading {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.link {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.mapContainer {
+    max-width: 600px; /* Set a maximum width for the map container */
+    flex: 1; /* Allow the map container to grow to fill available space */
+}
+
+.map {
+    width: 100%; /* Set the width of the map to 100% */
+    height: 300px;
+    border: 0;
+    border-radius: 5px;
+}
