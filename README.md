@@ -59,24 +59,3 @@ To start the development server, run:
 ```bash
 npm start
 ```
-
-## Project Structure
-
-mrcn-conference-website/
-├── public/
-│   ├── index.html
-│   └── ...
-├── src/
-│   ├── components/
-│   │   ├── Header.js
-│   │   ├── Footer.js
-│   │   ├── ...
-│   ├── styles/
-│   │   ├── main.css
-│   │   ├── ...
-│   ├── App.js
-│   ├── index.js
-│   └── ...
-├── package.json
-├── README.md
-└── ...
