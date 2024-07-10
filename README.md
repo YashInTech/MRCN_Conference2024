@@ -59,3 +59,50 @@ To start the development server, run:
 ```bash
 npm start
 ```
+Open your browser and navigate to `http://localhost:3000` to view the website.
+
+## Project Structure
+
+```
+mrcn-conference-website/
+├── public/
+│   ├── index.html
+│   └── ...
+├── src/
+│   ├── components/
+│   │   ├── Header.js
+│   │   ├── Footer.js
+│   │   ├── ...
+│   ├── styles/
+│   │   ├── main.css
+│   │   ├── ...
+│   ├── App.js
+│   ├── index.js
+│   └── ...
+├── package.json
+├── README.md
+└── ...
+```
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## Contact
+
+Yash Choudhary - yash@example.com
+
+Project Link: [https://github.com/yourusername/mrcn-conference-website](https://github.com/yourusername/mrcn-conference-website)
+```
+
+Feel free to adjust any sections or add more details based on the specific elements of your project.
