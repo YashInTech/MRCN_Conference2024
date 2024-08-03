@@ -100,9 +100,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Yash Choudhary - yash@example.com
+Yash Choudhary - yashchoudhary.tech@gmail.com
 
-Project Link: [https://github.com/yourusername/mrcn-conference-website](https://github.com/yourusername/mrcn-conference-website)
+Project Link: [https://github.com/yashuwho/mrcn2024]
 ```
 
 Feel free to adjust any sections or add more details based on the specific elements of your project.
