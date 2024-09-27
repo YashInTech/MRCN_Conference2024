@@ -102,7 +102,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Yash Choudhary - yashchoudhary.tech@gmail.com
 
-Project Link: [https://github.com/yashuwho/mrcn2024]
+Project Link: [https://github.com/YashInTech/MRCN_Conference2024]
 ```
 
 Feel free to adjust any sections or add more details based on the specific elements of your project.
